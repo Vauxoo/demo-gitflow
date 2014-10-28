@@ -1,4 +1,4 @@
 demo-gitflow
 ============
 
-Demo repository for git flow
+Demo repository for Vauxoo git flow
